@@ -1,0 +1,14 @@
+#contenedor{
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+}
+#titulo{
+    background-color: black;
+    color: lightgray;
+}
+img{
+    width: 300px;
+    height: 450px;
+  }
